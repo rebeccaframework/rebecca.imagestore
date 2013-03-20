@@ -5,7 +5,7 @@ version = '0.1'
 
 requires = [
     "pyramid",
-    "pillow",
+    "pillow>=2.0",
     "repoze.filesafe",
 ]
 
